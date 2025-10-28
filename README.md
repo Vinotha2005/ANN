@@ -15,7 +15,9 @@ A trained ANN model (churn_model.h5)
 Data preprocessing pipeline (preprocessor.pkl)
 
 Interactive Streamlit web app (app.py) for live predictions
+
 ## APP:
+https://annchurnprediction1.streamlit.app/
 
 ## 🧩 Tech Stack
 Category	Tools/Frameworks
